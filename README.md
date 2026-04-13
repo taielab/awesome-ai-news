@@ -31,6 +31,7 @@ Comprehensive AI-powered news aggregation and analysis tools.
 - **[auto-news](https://github.com/finaldie/auto-news)** ⭐⭐⭐⭐ - Automatic news aggregator with LLM for catching trends in minutes.
 - **[hot_news_daily_push](https://github.com/tuber0613/hot_news_daily_push)** ⭐⭐⭐⭐ - Multi-platform hot news collection with RSS, Twitter feeds, deduplication, and multi-channel push.
 - **[meridian](https://github.com/iliane5/meridian)** ⭐⭐⭐⭐ - Scrapes hundreds of sources, analyzes with AI, delivers personalized daily briefs.
+- **[Helium](https://github.com/connerlambden/helium-mcp)** ⭐⭐⭐ - AI-powered news intelligence with bias scoring across 5,000+ sources and 15+ dimensions, balanced multi-perspective synthesis, trending topics, and semantic meme search. MCP server and REST API; 50 free queries, no auth. [Website](https://heliumtrades.com/mcp-page/)
 - **[ai-daily-digest](https://github.com/vigorX777/ai-daily-digest)** ⭐⭐⭐ - TypeScript + Bun powered five-step pipeline for daily AI digests.
 - **[ai-daily-skill](https://github.com/geekjourneyx/ai-daily-skill)** ⭐⭐⭐ - Daily AI skill reports and learning resources.
 - **[CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)** ⭐⭐⭐ - Cloudflare Workers + Gemini powered daily AI insights with GitHub Pages deployment.
