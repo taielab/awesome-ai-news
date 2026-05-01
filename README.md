@@ -28,6 +28,7 @@ Comprehensive AI-powered news aggregation and analysis tools.
 - **[ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)** ⭐⭐⭐⭐⭐ - Real-time AI news tracking with 10+ web sources, OPML RSS support, 24h dual-view (AI-focused/All), and automatic failed source handling. *Most Active*
 - **[clawfeed](https://github.com/kevinho/clawfeed)** ⭐⭐⭐⭐⭐ - Multi-frequency digest system (4h/daily/weekly/monthly) with AI deep analysis, bookmark features, and multi-user support via Google OAuth. *Most Complete*
 - **[TrendRadar](https://github.com/sansan0/TrendRadar)** ⭐⭐⭐⭐⭐ - Enterprise-grade information push with MCP AI analysis, 10+ push channels (WeChat, Telegram, DingTalk, Feishu, Email, etc.), and unified timeline scheduling. *Enterprise Ready*
+- **[DAK News](https://github.com/LittleLittleCloud/The-Grand-Archive)** ⭐⭐⭐⭐ - News archive designed for AI, covering 30+ sources and updating every 30 minutes, with full-text search, REST API, SDK, and CLI access. *Production API*
 - **[auto-news](https://github.com/finaldie/auto-news)** ⭐⭐⭐⭐ - Automatic news aggregator with LLM for catching trends in minutes.
 - **[hot_news_daily_push](https://github.com/tuber0613/hot_news_daily_push)** ⭐⭐⭐⭐ - Multi-platform hot news collection with RSS, Twitter feeds, deduplication, and multi-channel push.
 - **[meridian](https://github.com/iliane5/meridian)** ⭐⭐⭐⭐ - Scrapes hundreds of sources, analyzes with AI, delivers personalized daily briefs.
@@ -127,8 +128,8 @@ Automated content publishing and distribution.
 
 | Stack | Projects | Percentage |
 |-------|----------|------------|
-| Python | 18 | 55% |
-| Node.js/TypeScript | 10 | 30% |
+| Python | 18 | 53% |
+| Node.js/TypeScript | 11 | 32% |
 | Go | 2 | 6% |
 | PHP | 1 | 3% |
 | Others | 2 | 6% |

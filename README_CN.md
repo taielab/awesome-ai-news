@@ -28,6 +28,7 @@
 - **[ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)** ⭐⭐⭐⭐⭐ - 实时 AI 资讯追踪，支持 10+ 网页源、OPML RSS、24h 双视图（AI 强相关/全量）、失败源自动处理。*最活跃*
 - **[clawfeed](https://github.com/kevinho/clawfeed)** ⭐⭐⭐⭐⭐ - 多频率摘要系统（4小时/日/周/月），支持 AI 深度分析、书签功能、Google OAuth 多用户。*功能最完整*
 - **[TrendRadar](https://github.com/sansan0/TrendRadar)** ⭐⭐⭐⭐⭐ - 企业级信息推送，支持 MCP AI 分析、10+ 推送渠道（企业微信、Telegram、钉钉、飞书、邮件等）、统一时间线调度。*企业就绪*
+- **[DAK News](https://github.com/LittleLittleCloud/The-Grand-Archive)** ⭐⭐⭐⭐ - 专为AI设计的新闻档案库，覆盖30+信源，每30分钟更新，支持全文搜索、REST API、SDK 和 CLI。*生产级 API*
 - **[auto-news](https://github.com/finaldie/auto-news)** ⭐⭐⭐⭐ - 基于 LLM 的自动新闻聚合器，快速了解趋势。
 - **[hot_news_daily_push](https://github.com/tuber0613/hot_news_daily_push)** ⭐⭐⭐⭐ - 多平台热点新闻收集，支持 RSS、Twitter Feed、去重总结、多渠道推送。
 - **[meridian](https://github.com/iliane5/meridian)** ⭐⭐⭐⭐ - 抓取数百个信息源，AI 分析，提供个性化日报。
@@ -127,8 +128,8 @@ RSS 订阅源处理、过滤和 AI 增强工具。
 
 | 技术栈 | 项目数 | 占比 |
 |--------|--------|------|
-| Python | 18 | 55% |
-| Node.js/TypeScript | 10 | 30% |
+| Python | 18 | 53% |
+| Node.js/TypeScript | 11 | 32% |
 | Go | 2 | 6% |
 | PHP | 1 | 3% |
 | 其他 | 2 | 6% |
