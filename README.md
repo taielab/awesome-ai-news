@@ -25,6 +25,8 @@
 
 Comprehensive AI-powered news aggregation and analysis tools.
 
+- **[AI Frontier Agent](https://github.com/nikefd/ai-frontier-agent)** ⭐ - Self-hosted AI news reader with source-linked daily briefings in English and Chinese, RSS output, and source health diagnostics. Deploy with Docker Compose and a configurable OpenAI-compatible model endpoint.
+
 - **[ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)** ⭐⭐⭐⭐⭐ - Real-time AI news tracking with 10+ web sources, OPML RSS support, 24h dual-view (AI-focused/All), and automatic failed source handling. *Most Active*
 - **[clawfeed](https://github.com/kevinho/clawfeed)** ⭐⭐⭐⭐⭐ - Multi-frequency digest system (4h/daily/weekly/monthly) with AI deep analysis, bookmark features, and multi-user support via Google OAuth. *Most Complete*
 - **[TrendRadar](https://github.com/sansan0/TrendRadar)** ⭐⭐⭐⭐⭐ - Enterprise-grade information push with MCP AI analysis, 10+ push channels (WeChat, Telegram, DingTalk, Feishu, Email, etc.), and unified timeline scheduling. *Enterprise Ready*
