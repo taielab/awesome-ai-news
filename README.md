@@ -103,6 +103,7 @@ Push and forward messages across platforms.
 
 Real-time security information feeds.
 
+- **[prodsecdigest](https://github.com/SatanicMechanic/prodsecdigest)** - Daily noiseless aggregator tuned to your tech stack
 - **[secfeed](https://github.com/alex-ilgayev/secfeed)** ⭐⭐⭐⭐ - AI-powered security feed in real-time for security researchers.
 
 ---
